@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//Hadimustafa22.github.io/task1-webdevarmy/static/css/main.bd5264e6.css",
+    "main.js": "//Hadimustafa22.github.io/task1-webdevarmy/static/js/main.8d467b0b.js",
+    "index.html": "//Hadimustafa22.github.io/task1-webdevarmy/index.html",
+    "main.bd5264e6.css.map": "//Hadimustafa22.github.io/task1-webdevarmy/static/css/main.bd5264e6.css.map",
+    "main.8d467b0b.js.map": "//Hadimustafa22.github.io/task1-webdevarmy/static/js/main.8d467b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd5264e6.css",
+    "static/js/main.8d467b0b.js"
+  ]
+}
